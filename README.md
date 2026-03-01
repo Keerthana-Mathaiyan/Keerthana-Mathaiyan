@@ -1,6 +1,5 @@
-<!-- GIF HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analytics+Professional;5+Years+Enterprise+Experience;SQL+%7C+Python+%7C+Power+BI;Machine+Learning+%7C+NLP" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
@@ -90,9 +89,8 @@ Analyzed product reviews to extract customer sentiment and business insights.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Portfolio Link]
+- 💼 LinkedIn: [[Keerthana Mathaiyan](https://www.linkedin.com/in/keerthana-mathaiyan/)]
+- 🌐 Portfolio: [[Keerthana-Mathaiyan](https://github.com/Keerthana-Mathaiyan)]
 
 ---
 
