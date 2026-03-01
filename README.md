@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Keerthana</h1>
-<h3 align="center">Data & Analytics Professional | 5 Years at TCS | SQL | Python | Power BI | Machine Learning</h3>
+<h3 align="center">Data & Analytics Professional | Ex-TCSer | SQL | Python | Power BI | Machine Learning</h3>
 
 ---
 
